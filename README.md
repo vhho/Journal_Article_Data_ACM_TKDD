@@ -1,1 +1,3 @@
-# Journal_Article_Data_ACM_TKDD
+# TKDD ACM Journal Data
+## Reference data for the TKDD ACM journal article, 
+## "Fact-Checking Based on Crawled Data with Citations from Internet"
